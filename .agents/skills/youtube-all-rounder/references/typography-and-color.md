@@ -1,6 +1,6 @@
 # Typography & Color Language
 
-This guide specifies the exact typography standards, distress treatments, and color formulas used across Ishant's thumbnail portfolio.
+This guide specifies the exact typography standards, distress treatments, and color formulas used across high-CTR documentary and video essay packaging.
 
 ---
 

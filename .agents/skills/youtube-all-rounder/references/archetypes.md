@@ -1,6 +1,6 @@
 # The 6 Signature Thumbnail Archetypes
 
-Extracted from Ishant's portfolio (`in.pinterest.com/ursishant/my-work/`), these six archetypes represent the foundation of high-CTR narrative thumbnail design.
+Curated from top-performing documentary, investigative, and video essay channels, these six archetypes represent the foundation of high-CTR narrative thumbnail design.
 
 ---
 

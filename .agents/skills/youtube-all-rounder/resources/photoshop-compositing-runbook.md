@@ -1,6 +1,6 @@
 # Photoshop & Compositing Runbook
 
-A precise step-by-step layer composition guide to assemble thumbnails matching Ishant's documentary aesthetic.
+A precise step-by-step layer composition guide to assemble thumbnails matching the tactile documentary aesthetic.
 
 ---
 

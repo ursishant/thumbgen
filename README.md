@@ -183,7 +183,7 @@ The engine strictly respects user productivity:
 ### 1. Direct Project Setup
 Clone this repository directly into your video production or creative project:
 ```bash
-git clone https://github.com/ursishant/youtube-all-rounder.git .
+git clone https://github.com/youtube-all-rounder/youtube-all-rounder.git .
 ```
 *(No `pip install` needed - runs on pure Python standard library!)*
 

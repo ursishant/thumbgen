@@ -1,6 +1,6 @@
 # Google Flow & Nano Banana Pro Prompting Recipes
 
-These detailed prompt recipes are engineered specifically for **Google Flow** using **Nano Banana Pro**. They generate cinematic, documentary-grade base assets with tactile physical materiality, sharp subject characterization, and negative space tailored for Ishant's graphic overlays.
+These detailed prompt recipes are engineered specifically for **Google Flow** using **Nano Banana Pro**. They generate cinematic, documentary-grade base assets with tactile physical materiality, sharp subject characterization, and negative space tailored for headline overlays.
 
 > [!IMPORTANT]
 > **Anti-Repetition & Quality Directives**:
