@@ -1,11 +1,12 @@
 # YouTube All-Rounder 🎬🚀
 
+[![Version: v1.0.0](https://img.shields.io/badge/Version-v1.0.0%20(Documentary%20Edition)-blueviolet.svg)](README.md#-roadmap--editions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Dependencies: Zero (Python Standard Library)](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Python)-brightgreen.svg)](scripts/)
 [![Universal Agent: Claude | Codex | OpenCode | Antigravity](https://img.shields.io/badge/Agent-Claude%20%7C%20Codex%20%7C%20OpenCode%20%7C%20Antigravity-orange.svg)](#-universal-compatibility)
 [![Platform: macOS | Linux | Windows](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg)](#-zero-dependency-automation)
 
-> The definitive, platform-agnostic **AI Agent Skill & Complete YouTube Packaging System**. Designed for **Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, and Antigravity**.
+> **Version 1.0 (Documentary & Video Essay Edition)**: The definitive, platform-agnostic **AI Agent Skill & Complete YouTube Packaging System**. Designed for **Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, and Antigravity**.
 
 Takes any raw video script, outline, or idea and transforms it into a complete, high-CTR, algorithmically optimized packaging suite:
 1. **Script Conflict & Face Extraction**: Identifies narrative paradoxes and real character faces with emotional postures.
@@ -207,6 +208,21 @@ Whenever you share any video script, outline, or idea, invoke:
 Explore the [thumbnails/README.md](thumbnails/README.md) catalog to see production 2K outputs generated with this engine:
 - **Case Study 1: The Attention Economy** (`THE CASINO`, `THE LOOP`, `YOU ARE THE PRODUCT`, `CAGED`, `THE TRAP`, `TRAPPED`).
 - **Case Study 2: Physical Cloud Infrastructure** (`OVERLOAD`, `GRIDLOCK`, `OUT OF SPACE`).
+
+---
+
+## 🗺️ Roadmap & Editions
+
+- **v1.0.0 (Current Release - Documentary & Video Essay Edition)**:
+  - 6 Tactile Documentary Archetypes (Dossier, Wall, Halftone, Noir, Zine, Tech Map)
+  - 5 Algorithmic Title Formulas (Crisis, Curiosity, Provocative, Contrarian, Breakdown)
+  - Full SEO Description, Chapter Timestamps & Pinned Comment Architecture
+  - Google Flow (Nano Banana Pro) Master Prompt Directives
+  - 100% Zero-Dependency Pure Python Clipboard & Launcher
+- **v1.1+ (Planned Editions)**:
+  - **Tech & Software Review Edition**: Minimalist Bento grids, dark neo-morphism, and glassmorphic UI cards.
+  - **Edutainment & Storytelling Edition**: High-contrast curiosity gaps and kinetic concept staging (Veritasium / Mark Rober style).
+  - **Macro-Finance & Market Edition**: Bloomberg terminal kinetic data charts and financial crisis heatmaps.
 
 ---
 
