@@ -1,4 +1,4 @@
-# OS files
+# OS metadata
 .DS_Store
 .DS_Store?
 ._*
@@ -7,7 +7,26 @@
 ehthumbs.db
 Thumbs.db
 
-# Output image formats (keep repository clean)
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+dist/
+build/
+*.egg-info/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output image formats (keep repository root clean)
 *.png
 *.jpg
 *.jpeg
@@ -15,9 +34,11 @@ Thumbs.db
 *.psd
 *.fig
 
-# Logs & scratch
+# Whitelist production showcase assets for GitHub README documentation
+!thumbnails/case-studies/**/*.jpg
+
+# Logs & temporary scratch directories
 *.log
 scratch/
 tmp/
-
-__pycache__/
+/tmp/

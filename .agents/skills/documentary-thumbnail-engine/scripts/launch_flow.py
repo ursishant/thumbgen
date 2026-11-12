@@ -9,10 +9,12 @@ import sys
 import os
 import subprocess
 import webbrowser
+import argparse
 
 FLOW_URL = "https://labs.google/flow"
 
 def copy_to_clipboard(text: str) -> bool:
+    """Copies text to the system clipboard across macOS, Windows, and Linux."""
     # 1. macOS (pbcopy)
     if sys.platform == "darwin":
         try:
@@ -55,32 +57,39 @@ def copy_to_clipboard(text: str) -> bool:
         return False
 
 def main():
-    args = sys.argv[1:]
-    copy_only = False
-    if "--copy-only" in args:
-        copy_only = True
-        args.remove("--copy-only")
-    if "--background" in args:
-        copy_only = True
-        args.remove("--background")
+    parser = argparse.ArgumentParser(
+        description="Cross-platform prompt clipboard launcher for Google Flow (Nano Banana Pro).",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    parser.add_argument(
+        "prompt",
+        nargs="?",
+        default="prompt.txt",
+        help="Prompt text string or path to a text file containing the prompt.",
+    )
+    parser.add_argument(
+        "-c", "--copy-only", "--background",
+        dest="copy_only",
+        action="store_true",
+        help="Silent mode: Copies prompt to clipboard without automatically opening browser.",
+    )
+    parser.add_argument(
+        "-u", "--url",
+        default=FLOW_URL,
+        help="Target Google Flow project URL.",
+    )
+
+    args = parser.parse_args()
 
     prompt_text = ""
-    if len(args) > 0:
-        arg = args[0]
-        if os.path.isfile(arg):
-            with open(arg, "r", encoding="utf-8") as f:
-                prompt_text = f.read().strip()
-        else:
-            prompt_text = " ".join(args).strip()
-    elif os.path.isfile("prompt.txt"):
-        with open("prompt.txt", "r", encoding="utf-8") as f:
+    if os.path.isfile(args.prompt):
+        with open(args.prompt, "r", encoding="utf-8") as f:
             prompt_text = f.read().strip()
     else:
-        print("Usage: python3 launch_flow.py [--copy-only] <prompt-text-or-file>")
-        sys.exit(1)
+        prompt_text = args.prompt.strip()
 
     if not prompt_text:
-        print("Error: Prompt text is empty.")
+        print("❌ Error: Prompt text is empty.")
         sys.exit(1)
 
     copied = copy_to_clipboard(prompt_text)
@@ -95,12 +104,12 @@ def main():
     print(prompt_text)
     print("=" * 60 + "\n")
 
-    if not copy_only:
-        print(f"🚀 Opening Google Flow in your default browser: {FLOW_URL}")
-        webbrowser.open(FLOW_URL)
+    if not args.copy_only:
+        print(f"🚀 Opening Google Flow in your default browser: {args.url}")
+        webbrowser.open(args.url)
         print("✨ Ready! Just paste (Cmd+V / Ctrl+V) into Google Flow and hit generate.")
     else:
-        print(f"💡 Background mode active: Browser was NOT forced open. Flow URL: {FLOW_URL}")
+        print(f"💡 Background mode active: Browser was NOT opened. Flow URL: {args.url}")
 
 if __name__ == "__main__":
     main()
