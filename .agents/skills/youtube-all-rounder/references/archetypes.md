@@ -5,7 +5,7 @@ Curated from top-performing documentary, investigative, and video essay channels
 ---
 
 ## 1. The Tactical Dossier & Case File
-**Portfolio References**: *The Epstein Files (pin_16)*, *Exposed? Files Leaked (pin_17)*
+**Design Examples**: *Investigative Leaks, Whistleblower Files, Classified Intelligence Dossiers*
 
 ### Purpose
 Used for exposés, whistleblowers, geopolitical scandals, leaked documents, and true-crime investigations. It creates the psychological impression that the viewer is looking at classified government or corporate intelligence.
@@ -21,7 +21,7 @@ Used for exposés, whistleblowers, geopolitical scandals, leaked documents, and 
 ---
 
 ## 2. The Physical String Board / Crime Wall
-**Portfolio References**: *From Yarn to Empire (pin_05)*, *From Yarn to Digital Power (pin_04)*
+**Design Examples**: *Corporate Dynasties, Industrial Supply Chains, Multi-Decade Chronicles*
 
 ### Purpose
 Perfect for complex multi-decade business histories, family dynasties, founder feuds, corporate espionage, and rise-and-fall narratives.
@@ -36,10 +36,10 @@ Perfect for complex multi-decade business histories, family dynasties, founder f
 ---
 
 ## 3. Halftone Screenprint & Constructivist Poster
-**Portfolio References**: *Legacy Over? (pin_08)*, *Genius? (pin_06 & pin_07)*, *Who Pays? (pin_13 & pin_15)*
+**Design Examples**: *Market Crashes, Billionaire Biopics, Macroeconomic Shifts*
 
 ### Purpose
-High-impact, high-brow financial documentaries, billionaire biopics, market crashes, and macroeconomic shifts. Inspired by mid-century Soviet constructivism, 60s pop art, and vintage financial newspapers.
+Used for high-impact financial documentaries, corporate investigations, and macroeconomic shifts. Inspired by mid-century constructivism, pop art, and vintage financial newsprint.
 
 ### Key Visual Components
 - **Color Trio**: Cream/Ivory paper background (`#F4EFEA`) + Carbon Black ink (`#121212`) + Crimson Red (`#C8102E`).
@@ -50,7 +50,7 @@ High-impact, high-brow financial documentaries, billionaire biopics, market cras
 ---
 
 ## 4. Double-Exposure Silhouette & Cinematic Noir
-**Portfolio References**: *Behind the Image (pin_14)*, *Who Pulled The Strings? (pin_10)*
+**Design Examples**: *Behind The Image, Puppet Master Allegories, Neo-Noir Exposés*
 
 ### Purpose
 Used when uncovering hidden masters, secret agreements, psychological profiles, or shadowy forces behind major world events.
@@ -65,7 +65,7 @@ Used when uncovering hidden masters, secret agreements, psychological profiles, 
 ---
 
 ## 5. Punk Zine & Cutout Collage
-**Portfolio References**: *AI Is Cooked (pin_11)*, *AI Is Dead? (pin_12)*
+**Design Examples**: *Tech Upheaval, Silicon Valley Chaos, Market Bubble Collapses*
 
 ### Purpose
 Tech industry chaos, startup wars, market bubbles bursting, and sudden executive upheavals. Conveys urgency, disruption, and irreverent reality checks.
@@ -80,7 +80,7 @@ Tech industry chaos, startup wars, market bubbles bursting, and sudden executive
 ---
 
 ## 6. The Tactical Infographic & Tech Landscape
-**Portfolio References**: *Starlink's Limit (pin_02)*
+**Design Examples**: *Undersea Fiber Backbones, Critical Infrastructure, Geopolitical Networks*
 
 ### Purpose
 Deep-dive technical infrastructure, supply chain vulnerabilities, satellite networks, microchips, and geopolitical geography.

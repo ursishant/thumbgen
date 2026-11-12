@@ -27,7 +27,7 @@ Style & Camera Specs: Shot on Hasselblad H6D-100c with a 50mm f/2.8 lens. High m
 ---
 
 ## 1. The Tactical Dossier (Exposés, Whistleblowers & Scandals)
-**Reference**: *The Epstein Files (pin_16), Exposed? Files Leaked (pin_17), The Trap (Attn Economy)*
+**Reference Case Studies**: *Investigative Leaks, Whistleblower Files, The Intelligence Dossier*
 
 ### Google Flow / Nano Banana Pro Prompt:
 > `A high-angle cinematic flat-lay editorial photograph of an open vintage manila intelligence dossier folder spread across a dark mahogany investigative desk. In the center, an authentic high-contrast black-and-white 35mm candid portrait photograph of [Subject Name], clipped to the folder with a tarnished steel paperclip, corners secured with yellowed translucent masking tape. Around the photograph are official report pages with heavy black redaction marker bars censoring sensitive text, red ballpoint pen annotations circling critical dates, and distressed ink rubber stamps reading 'CONFIDENTIAL'. Headline text '[HOOK]' in bold cream vintage typography in upper left corner. Single text instance only, no repeating labels or duplicate words. Dramatic single overhead desk lamp lighting casting deep shadows. High tactile texture, visible paper grain, rough torn document edges, subtle dust particles, 8k resolution, documentary realism --ar 16:9`
@@ -35,7 +35,7 @@ Style & Camera Specs: Shot on Hasselblad H6D-100c with a 50mm f/2.8 lens. High m
 ---
 
 ## 2. The Tactile Mixed-Media / Casino (Addiction, Tech Exploitation & Dopamine)
-**Reference**: *The Casino (Attn Economy), AI Is Cooked (pin_11)*
+**Reference Case Studies**: *The Casino Loop, AI Bubble Crisis, Social Media Traps*
 
 ### Google Flow / Nano Banana Pro Prompt:
 > `A raw, tactile mixed-media documentary collage in 16:9 aspect ratio. On the left third, an authentic high-contrast black-and-white torn portrait photograph of an exhausted person staring down into the eerie glow of a smartphone screen, with deep shadows around the eyes. Across the center, a bold distressed headline reading '[HOOK]' in vintage condensed woodblock typography, secured with strips of realistic crinkled grey duct tape. On the right, a physical mechanical vintage casino slot machine reel unit showing glowing triple '777' numbers, surrounded by spilled brass tokens and floating translucent red '99+' notification badge icons. Background is coarse jute burlap canvas overlaid with weathered newsprint clippings. Dramatic chiaroscuro lighting, tactile paper tears, high physical depth. The headline text appears strictly once; no duplicate words or repeated labels --ar 16:9`
@@ -43,7 +43,7 @@ Style & Camera Specs: Shot on Hasselblad H6D-100c with a 50mm f/2.8 lens. High m
 ---
 
 ## 3. The Halftone Screenprint (Billionaires, Surveillance & Market Manipulation)
-**Reference**: *Legacy Over? (pin_08), Genius? (pin_07), You Are The Product (Attn Economy)*
+**Reference Case Studies**: *Corporate Empire Crash, Genius Myth, You Are The Product*
 
 ### Google Flow / Nano Banana Pro Prompt:
 > `An iconic high-impact editorial poster in 16:9 aspect ratio. In the center, a mysterious figure in a dark hoodie looking directly forward with a chilling, contemplative stare, lit from below by the intense electric blue glow of a smartphone screen. The entire portrait is styled in bold graphic screenprint and risograph newsprint halftone raster dots with high-contrast shadows. Across the top, massive bold distressed crimson-red typography reading '[HOOK]' in an ultra-condensed brutalist sans-serif font. Behind the subject runs a vivid red audio frequency waveform and subtle barcode motif. Background is weathered dark paper with distressed cream torn borders. Text appears strictly once, no repeating labels. High visual tension, stark chiaroscuro lighting, authentic ink bleed, 1970s investigative zine aesthetic --ar 16:9`
@@ -51,7 +51,7 @@ Style & Camera Specs: Shot on Hasselblad H6D-100c with a 50mm f/2.8 lens. High m
 ---
 
 ## 4. The Physical String Board & Timeline (Dynasties, Supply Chains & Geopolitics)
-**Reference**: *From Yarn to Empire (pin_05), Ambani Textile Empire (pin_04)*
+**Reference Case Studies**: *Corporate Dynasties, Textile Empires, Supply Chain Investigations*
 
 ### Google Flow / Nano Banana Pro Prompt:
 > `A cinematic documentary shot of a detective conspiracy wall set against a dark moody burgundy painted concrete wall with deep vignetted shadows. Horizontal jute laundry twine is stretched taut across the frame, with small vintage wooden clothespins holding black-and-white polaroid photographs of [Subject 1, Subject 2, factory sites, and vintage newspaper headlines]. Vivid crimson-red cotton embroidery thread crisscrosses dynamically between the photos, tying the subjects together like a conspiracy web. Pinned behind the twine are yellowed vintage geographical maps and news clippings with frayed fibers. Single headline '[HOOK]' pinned cleanly on a single vintage label card; strictly forbid duplicate badges or repeating text. Dramatic side lighting from an off-camera key light casting realistic string shadows onto the wall. Visible weave texture, physical depth, tactile authenticity, 35mm film still, documentary case study aesthetic --ar 16:9`
@@ -59,7 +59,7 @@ Style & Camera Specs: Shot on Hasselblad H6D-100c with a 50mm f/2.8 lens. High m
 ---
 
 ## 5. The Double-Exposure Silhouette (Secret Agreements & Covert Power)
-**Reference**: *Behind the Image (pin_14), Who Pulled The Strings? (pin_10)*
+**Reference Case Studies**: *Behind The Image, Puppet Master Allegories, Shadow Governance*
 
 ### Google Flow / Nano Banana Pro Prompt:
 > `A cinematic double-exposure fine art editorial photograph. The dominant silhouette profile of [Subject Name, e.g. tech executive with glasses] is filled with an eerie, dimly lit concrete brutalist hallway illuminated by flickering industrial fluorescent ceiling lights, with a lone mysterious figure in a dark trench coat standing at the far end of the corridor. The outer background is a deep, textured wine-burgundy gradient (#2A080C) with heavy film grain and subtle vignette. Bold headline '[HOOK]' positioned cleanly in negative space; text appears strictly once with zero repetition. Dramatic high-contrast silhouette edge lighting, moody atmosphere, psychological tension, neo-noir cinematography, shot on 70mm anamorphic lens, raw film texture --ar 16:9`
@@ -67,7 +67,7 @@ Style & Camera Specs: Shot on Hasselblad H6D-100c with a 50mm f/2.8 lens. High m
 ---
 
 ## 6. The Tactical Infographic & Infrastructure (Geopolitics & Deep Tech)
-**Reference**: *Starlink's Limit (pin_02)*
+**Reference Case Studies**: *Undersea Fiber Backbones, Critical Infrastructure, Geopolitical Networks*
 
 ### Google Flow / Nano Banana Pro Prompt:
 > `A wide cinematic 16:9 technical documentary landscape. In the immediate foreground, a massive industrial armored undersea fiber-optic cable with heavy steel joint collars cuts diagonally across a dark rocky ocean floor, bathed in stark directional beam lighting. In the upper midground, a high-contrast black-and-white cutout portrait of [Tech Founder] with a sharp vivid crimson rim light stroke, looking intently to the horizon. In the background, a satellite in low Earth orbit over a dark stylized globe with illuminated red data routes and faint technical HUD coordinate grids ('52.1 N 13.4 E'). Minimalist, high technical precision, crisp industrial textures, dark charcoal and crimson red color palette, Vox Borders / Johnny Harris documentary cinematography --ar 16:9`
