@@ -1,6 +1,6 @@
 # Production Showcase & Case Studies 🎨🎬
 
-This directory contains production-ready 2K assets generated directly via **Google Flow (Nano Banana Pro)**, cleaned of SynthID watermarks using OpenCV Telea inpainting, and upscaled using the **Documentary Thumbnail Engine**.
+This directory contains production-ready 2K assets generated directly via **Google Flow (Nano Banana Pro)**, curated and upscaled using the **YouTube All-Rounder**.
 
 ---
 
