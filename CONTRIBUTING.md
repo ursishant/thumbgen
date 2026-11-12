@@ -1,13 +1,13 @@
-# Contributing to Thumbgen 🎬🚀
+# Contributing to Thumbgen
 
-Thank you for your interest in contributing to **Thumbgen**! This project provides creators and AI coding agents (Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, and Antigravity) with a universal packaging and growth workflow.
+Thank you for your interest in contributing to **Thumbgen**. This project provides creators and AI coding agents (Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, and Antigravity) with a universal packaging and growth workflow.
 
 ---
 
-## 🛠️ How You Can Contribute
+## How You Can Contribute
 
 1. **Add New Visual Archetypes**:
-   - If you've developed a proven, high-CTR visual archetype (e.g., archival microfilm, geopolitical map overlays, blueprints, split comparisons), submit a PR documenting the archetype, color formulas, and layer hierarchy in `references/archetypes.md`.
+   - If you have developed a proven, high-CTR visual archetype (e.g., archival microfilm, geopolitical map overlays, blueprints, split comparisons), submit a PR documenting the archetype, color formulas, and layer hierarchy in `references/archetypes.md`.
 2. **Refine Title & Prompt Recipes**:
    - Add tested algorithmic title formulas in `resources/seo-and-packaging-guide.md`.
    - Add tested Nano Banana Pro / Google Flow prompt formulas in `resources/prompt-templates.md`.
@@ -18,7 +18,7 @@ Thank you for your interest in contributing to **Thumbgen**! This project provid
 
 ---
 
-## 📋 Guidelines & Standards
+## Guidelines & Standards
 
 ### 1. Universal Agent Agnosticism
 - Do **not** bind the skill or scripts to any proprietary LLM API or local image generator.
@@ -38,7 +38,7 @@ Thank you for your interest in contributing to **Thumbgen**! This project provid
 
 ---
 
-## 🚀 Submitting a Pull Request
+## Submitting a Pull Request
 
 1. Fork the repository.
 2. Create your feature branch (`git checkout -b feature/new-archetype`).
@@ -48,5 +48,5 @@ Thank you for your interest in contributing to **Thumbgen**! This project provid
 
 ---
 
-## 📄 License
+## License
 By contributing, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).

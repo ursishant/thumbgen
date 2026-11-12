@@ -89,27 +89,27 @@ def main():
         prompt_text = args.prompt.strip()
 
     if not prompt_text:
-        print("❌ Error: Prompt text is empty.")
+        print("[Error] Prompt text is empty.")
         sys.exit(1)
 
     copied = copy_to_clipboard(prompt_text)
     if copied:
-        print("✅ Prompt copied to your clipboard silently!")
+        print("[Success] Prompt copied to your clipboard.")
     else:
-        print("⚠️ Could not automatically copy to clipboard. Please copy the prompt manually.")
+        print("[Warning] Could not automatically copy to clipboard. Please copy manually.")
 
     print("\n" + "=" * 60)
-    print("🎨 Google Flow (Nano Banana Pro) Prompt:")
+    print("Google Flow (Nano Banana Pro) Prompt:")
     print("=" * 60)
     print(prompt_text)
     print("=" * 60 + "\n")
 
     if not args.copy_only:
-        print(f"🚀 Opening Google Flow in your default browser: {args.url}")
+        print(f"Opening Google Flow in default browser: {args.url}")
         webbrowser.open(args.url)
-        print("✨ Ready! Just paste (Cmd+V / Ctrl+V) into Google Flow and hit generate.")
+        print("Ready. Paste (Cmd+V / Ctrl+V) into Google Flow and generate.")
     else:
-        print(f"💡 Background mode active: Browser was NOT opened. Flow URL: {args.url}")
+        print(f"Background mode active: Browser was not opened. Flow URL: {args.url}")
 
 if __name__ == "__main__":
     main()

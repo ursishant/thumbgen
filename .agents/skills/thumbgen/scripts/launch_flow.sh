@@ -36,7 +36,7 @@ if [ -n "$1" ]; then
 elif [ -f "prompt.txt" ]; then
     PROMPT_TEXT=$(cat "prompt.txt")
 else
-    echo "❌ Error: No prompt provided and prompt.txt not found."
+    echo "Error: No prompt provided and prompt.txt not found."
     echo "Usage: ./launch_flow.sh \"Your prompt here\" OR ./launch_flow.sh prompt.txt"
     exit 1
 fi
@@ -44,30 +44,30 @@ fi
 # Copy to clipboard based on OS
 if command -v pbcopy >/dev/null 2>&1; then
     printf "%s" "$PROMPT_TEXT" | pbcopy
-    echo "✅ Prompt copied to macOS clipboard via pbcopy!"
+    echo "[Success] Prompt copied to macOS clipboard via pbcopy."
 elif command -v xclip >/dev/null 2>&1; then
     printf "%s" "$PROMPT_TEXT" | xclip -selection clipboard
-    echo "✅ Prompt copied to Linux clipboard via xclip!"
+    echo "[Success] Prompt copied to Linux clipboard via xclip."
 elif command -v clip.exe >/dev/null 2>&1; then
     printf "%s" "$PROMPT_TEXT" | clip.exe
-    echo "✅ Prompt copied to Windows clipboard!"
+    echo "[Success] Prompt copied to Windows clipboard."
 else
-    echo "⚠️  Could not detect clipboard tool (pbcopy/xclip/clip). Please copy manually."
+    echo "[Warning] Could not detect clipboard tool (pbcopy/xclip/clip). Please copy manually."
 fi
 
 echo ""
-echo "🎨 Prompt Preview:"
+echo "Prompt Preview:"
 echo "--------------------------------------------------------"
 echo "$PROMPT_TEXT"
 echo "--------------------------------------------------------"
 echo ""
 
 if [ "$COPY_ONLY" = true ]; then
-    echo "💡 Background mode active: Browser was NOT opened. Flow URL: $FLOW_URL"
+    echo "Background mode active: Browser was not opened. Flow URL: $FLOW_URL"
     exit 0
 fi
 
-echo "🚀 Opening Google Flow: $FLOW_URL ..."
+echo "Opening Google Flow: $FLOW_URL ..."
 
 if command -v open >/dev/null 2>&1; then
     open "$FLOW_URL"
@@ -79,4 +79,4 @@ else
     echo "Open Google Flow manually: $FLOW_URL"
 fi
 
-echo "✨ Done! Just paste (Cmd+V / Ctrl+V) into Google Flow."
+echo "Done. Paste (Cmd+V / Ctrl+V) into Google Flow."

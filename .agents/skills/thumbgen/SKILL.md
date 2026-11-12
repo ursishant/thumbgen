@@ -9,7 +9,7 @@ description: >-
   prompt directives with zero-dependency one-click launch access.
 ---
 
-# Thumbgen 🎬🚀
+# Thumbgen
 
 The ultimate platform-agnostic YouTube packaging, title engineering, description architecture, and thumbnail visual art direction system designed to work seamlessly across **any coding agent or CLI** (Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, or Antigravity).
 
@@ -120,7 +120,7 @@ For the chosen concept(s), provide the creator with immediate, friction-free acc
 
 2. **Direct Clickable Link**:
    Provide a direct Markdown link so the user can open Google Flow in one click:
-   👉 **[Open Google Flow](https://labs.google/flow)**
+   **[Open Google Flow](https://labs.google/flow)**
 
 3. **One-Click Zero-Dependency Launch Script**:
    Instruct the user that they can run the included launcher script:
