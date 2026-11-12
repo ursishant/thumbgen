@@ -1,5 +1,5 @@
 ---
-name: youtube-all-rounder
+name: thumbgen
 description: >-
   Universal YouTube packaging and channel growth engine for Claude Code, Codex,
   OpenCode, Gemini CLI, Cursor, and Antigravity. Understands any video script or topic,
@@ -9,7 +9,7 @@ description: >-
   prompt directives with zero-dependency one-click launch access.
 ---
 
-# YouTube All-Rounder 🎬🚀
+# Thumbgen 🎬🚀
 
 The ultimate platform-agnostic YouTube packaging, title engineering, description architecture, and thumbnail visual art direction system designed to work seamlessly across **any coding agent or CLI** (Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, or Antigravity).
 
@@ -25,7 +25,7 @@ It eliminates guesswork by taking raw scripts, outlines, or ideas and delivering
 
 ---
 
-## The Standard 6-Step All-Rounder Flow
+## The Standard 6-Step Thumbgen Flow
 
 ```mermaid
 flowchart TD

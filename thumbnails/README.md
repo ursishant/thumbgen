@@ -1,6 +1,6 @@
 # Production Showcase & Case Studies 🎨🎬
 
-This directory contains production-ready 2K assets generated directly via **Google Flow (Nano Banana Pro)**, curated and upscaled using the **YouTube All-Rounder**.
+This directory contains production-ready 2K assets generated directly via **Google Flow (Nano Banana Pro)**, curated and upscaled using **Thumbgen**.
 
 ---
 

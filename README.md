@@ -1,4 +1,4 @@
-# YouTube All-Rounder 🎬🚀
+# Thumbgen 🎬🚀
 
 [![Version: v1.0.0](https://img.shields.io/badge/Version-v1.0.0%20(Documentary%20Edition)-blueviolet.svg)](README.md#-roadmap--editions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -21,7 +21,7 @@ Takes any raw video script, outline, or idea and transforms it into a complete, 
 ## 📑 Table of Contents
 - [🌍 Universal Compatibility](#-universal-compatibility)
 - [⚡ Zero-Dependency Principle](#-zero-dependency-principle)
-- [🚀 The 6-Step All-Rounder Workflow](#-the-6-step-all-rounder-workflow)
+- [🚀 The 6-Step Thumbgen Workflow](#-the-6-step-thumbgen-workflow)
 - [🎨 The 6 Signature Thumbnail Archetypes](#-the-6-signature-thumbnail-archetypes)
 - [🛠️ Zero-Dependency Automation Tools](#️-zero-dependency-automation-tools)
 - [⚡ The Non-Intrusive Background Principle](#-the-non-intrusive-background-principle)
@@ -35,7 +35,7 @@ Takes any raw video script, outline, or idea and transforms it into a complete, 
 
 ## 🌍 Universal Compatibility
 
-The YouTube All-Rounder is 100% portable, self-contained, and agent-agnostic. It runs seamlessly out of the box in:
+Thumbgen is 100% portable, self-contained, and agent-agnostic. It runs seamlessly out of the box in:
 *   🤖 **Claude Code** (`claude`)
 *   💻 **OpenAI Codex / GPT CLI**
 *   ⚡ **OpenCode**
@@ -53,7 +53,7 @@ No `pip install`, no heavy machine-learning packages, no bloated environments.
 
 ---
 
-## 🚀 The 6-Step All-Rounder Workflow
+## 🚀 The 6-Step Thumbgen Workflow
 
 ```mermaid
 flowchart TD
@@ -113,26 +113,26 @@ Documented in detail with typography, color hex codes, and Photoshop layer stack
 5. **Punk Zine & Cutout Collage**: Die-cut sticker strokes, torn paper edges, translucent duct tape, crumpled newspaper clippings, and marker defacements.
 6. **The Tactical Infographic & Tech Landscape**: Heavy physical infrastructure (undersea cables, satellite orbits, subsea pipelines) paired with clean technical HUD grids and coordinates.
 
-*For complete archetype documentation, see [references/archetypes.md](.agents/skills/youtube-all-rounder/references/archetypes.md).*
+*For complete archetype documentation, see [references/archetypes.md](.agents/skills/thumbgen/references/archetypes.md).*
 
 ---
 
 ## 🛠️ Zero-Dependency Automation Tools
 
 ### Universal Google Flow Clipboard & Launcher
-Located at `.agents/skills/youtube-all-rounder/scripts/launch_flow.py` and `launch_flow.sh`.
+Located at `.agents/skills/thumbgen/scripts/launch_flow.py` and `launch_flow.sh`.
 
 Copies prompt directives directly to the system clipboard across macOS (`pbcopy`), Linux (`xclip` / `wl-copy`), and Windows (`clip.exe`), then optionally opens Google Flow. **Requires zero external pip packages.**
 
 ```bash
 # Standard interactive mode (copies prompt & opens browser)
-python3 .agents/skills/youtube-all-rounder/scripts/launch_flow.py prompt.txt
+python3 .agents/skills/thumbgen/scripts/launch_flow.py prompt.txt
 
 # Non-intrusive background mode (copies silently without opening browser)
-python3 .agents/skills/youtube-all-rounder/scripts/launch_flow.py --copy-only prompt.txt
+python3 .agents/skills/thumbgen/scripts/launch_flow.py --copy-only prompt.txt
 
 # Or using Bash
-./.agents/skills/youtube-all-rounder/scripts/launch_flow.sh prompt.txt
+./.agents/skills/thumbgen/scripts/launch_flow.sh prompt.txt
 ```
 
 ---
@@ -152,7 +152,7 @@ The engine strictly respects user productivity:
 .
 ├── .agents/
 │   └── skills/
-│       └── youtube-all-rounder/
+│       └── thumbgen/
 │           ├── SKILL.md                              # Universal agent instruction & 6-step flow
 │           ├── scripts/
 │           │   ├── launch_flow.py                    # Zero-dependency Python prompt clipboard & launcher
@@ -184,7 +184,7 @@ The engine strictly respects user productivity:
 ### 1. Direct Project Setup
 Clone this repository directly into your video production or creative project:
 ```bash
-git clone https://github.com/youtube-all-rounder/youtube-all-rounder.git .
+git clone https://github.com/ursishant/thumbgen.git .
 ```
 *(No `pip install` needed - runs on pure Python standard library!)*
 
@@ -192,14 +192,14 @@ git clone https://github.com/youtube-all-rounder/youtube-all-rounder.git .
 Symlink or copy the skill folder into your agent's skills directory:
 ```bash
 mkdir -p ~/.gemini/config/skills/
-cp -r .agents/skills/youtube-all-rounder ~/.gemini/config/skills/
+cp -r .agents/skills/thumbgen ~/.gemini/config/skills/
 ```
 
 ### 3. Claude Code / Codex / OpenCode Setup
-Ensure the `.agents/skills/youtube-all-rounder/` directory is present in your workspace root. Your agent will automatically discover and load `SKILL.md`.
+Ensure the `.agents/skills/thumbgen/` directory is present in your workspace root. Your agent will automatically discover and load `SKILL.md`.
 
 Whenever you share any video script, outline, or idea, invoke:
-> *"Package this video script using youtube-all-rounder"*
+> *"Package this video script using thumbgen"*
 
 ---
 

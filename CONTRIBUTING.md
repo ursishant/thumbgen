@@ -1,6 +1,6 @@
-# Contributing to YouTube All-Rounder 🎬🚀
+# Contributing to Thumbgen 🎬🚀
 
-Thank you for your interest in contributing to the **YouTube All-Rounder**! This project provides creators and AI coding agents (Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, and Antigravity) with a universal packaging and growth workflow.
+Thank you for your interest in contributing to **Thumbgen**! This project provides creators and AI coding agents (Claude Code, OpenAI Codex, OpenCode, Cursor, Gemini CLI, and Antigravity) with a universal packaging and growth workflow.
 
 ---
 
@@ -13,7 +13,7 @@ Thank you for your interest in contributing to the **YouTube All-Rounder**! This
    - Add tested Nano Banana Pro / Google Flow prompt formulas in `resources/prompt-templates.md`.
    - Ensure all prompts enforce the **Zero Duplicate Words** and **Anti-AI Slop** constraints.
 3. **Enhance Automation & Scripts**:
-   - Optimize Python and Shell utilities in `.agents/skills/youtube-all-rounder/scripts/`.
+   - Optimize Python and Shell utilities in `.agents/skills/thumbgen/scripts/`.
    - Maintain zero-dependency pure Python standard library design across **macOS, Windows, and Linux**.
 
 ---
