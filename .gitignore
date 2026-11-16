@@ -42,3 +42,6 @@ build/
 scratch/
 tmp/
 /tmp/
+cookies/
+data/
+bridge

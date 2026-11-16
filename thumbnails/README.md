@@ -31,6 +31,17 @@ A 3-concept packaging suite exposing the physical realities of modern computing:
 
 ---
 
+## Case Study 3: The AI Semiconductor Bottleneck ("The Coming Silicon Chokepoint")
+
+An investigative analysis of the concentrated physical supply chain behind artificial intelligence: TSMC fabrication, ASML extreme ultraviolet lithography, South Korean high-bandwidth memory (HBM), and advanced packaging.
+
+| File | Concept & Hook | Visual Archetype | Native Specs |
+| :--- | :--- | :--- | :---: |
+| `01_CHOKEPOINT_2K.jpg` | **Chokepoint** (`CHOKEPOINT`) | Monumental Condensed Typography Behind Subject | 2048×1144 (2K) |
+| `02_THE_BOTTLE_2K.jpg` | **The Bottle** (`THE BOTTLE`) | Tactical Manila Intelligence Dossier & Physical Die | 2048×1144 (2K) |
+
+---
+
 ## Directory Organization
 
 ```text
@@ -45,9 +56,16 @@ thumbnails/
     │   ├── 05_THE_TRAP_DOSSIER_2K.jpg
     │   ├── 06_TRAPPED_BURLAP_2K.jpg
     │   └── originals/                              # Unprocessed raw outputs
-    └── 02-internet-infrastructure/
-        ├── 01_OVERLOAD_2K.jpg
-        ├── 02_GRIDLOCK_2K.jpg
-        ├── 03_OUT_OF_SPACE_2K.jpg
-        └── originals/                              # Unprocessed raw outputs
+    ├── 02-internet-infrastructure/
+    │   ├── 01_OVERLOAD_2K.jpg
+    │   ├── 02_GRIDLOCK_2K.jpg
+    │   ├── 03_OUT_OF_SPACE_2K.jpg
+    │   └── originals/                              # Unprocessed raw outputs
+    └── 03-ai-chip-bottleneck/
+        ├── PACKAGING_SUITE.md                      # Full 6-step breakdown & 10 concepts
+        ├── 01_CHOKEPOINT_2K.jpg                    # Jensen Huang 2K thumbnail
+        ├── 02_THE_BOTTLE_2K.jpg                    # Classified dossier 2K thumbnail
+        ├── prompt_01_chokepoint.txt
+        ├── prompt_02_the_bottle.txt
+        └── prompt_03_one_island.txt
 ```

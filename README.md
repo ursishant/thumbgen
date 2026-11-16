@@ -41,6 +41,13 @@ Every thumbnail below was formulated through Thumbgen's 6-step pipeline, generat
 | ![The Loop](thumbnails/case-studies/01-attention-economy/02_THE_LOOP_2K.jpg) | ![You Are The Product](thumbnails/case-studies/01-attention-economy/03_YOU_ARE_THE_PRODUCT_2K.jpg) | ![Trapped Burlap](thumbnails/case-studies/01-attention-economy/06_TRAPPED_BURLAP_2K.jpg) |
 | *Chiaroscuro horizon with infinite illuminated red wire* | *Newsprint halftone screenprint on raw ivory paper* | *Coarse jute fibers, laundry twine, and forensic lighting* |
 
+### Case Study: AI Semiconductor Bottleneck ("The Coming Silicon Chokepoint")
+
+| Chokepoint (Monumental Behind Subject) | The Bottle (Tactical Dossier) |
+| :---: | :---: |
+| ![Chokepoint](thumbnails/case-studies/03-ai-chip-bottleneck/01_CHOKEPOINT_2K.jpg) | ![The Bottle](thumbnails/case-studies/03-ai-chip-bottleneck/02_THE_BOTTLE_2K.jpg) |
+| *Jensen Huang holding 300mm wafer with crimson rim light* | *Forensic manila dossier with surveillance photo and processor die* |
+
 ---
 
 ## Table of Contents
