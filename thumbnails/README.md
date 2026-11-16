@@ -33,12 +33,20 @@ A 3-concept packaging suite exposing the physical realities of modern computing:
 
 ## Case Study 3: The AI Semiconductor Bottleneck ("The Coming Silicon Chokepoint")
 
-An investigative analysis of the concentrated physical supply chain behind artificial intelligence: TSMC fabrication, ASML extreme ultraviolet lithography, South Korean high-bandwidth memory (HBM), and advanced packaging.
+A 10-concept packaging suite exploring the global supply chain behind artificial intelligence: TSMC fabrication, ASML extreme ultraviolet lithography, South Korean high-bandwidth memory (HBM), cleanrooms, and geopolitical blockades.
 
 | File | Concept & Hook | Visual Archetype | Native Specs |
 | :--- | :--- | :--- | :---: |
-| `01_CHOKEPOINT_2K.jpg` | **Chokepoint** (`CHOKEPOINT`) | Monumental Condensed Typography Behind Subject | 2048×1144 (2K) |
-| `02_THE_BOTTLE_2K.jpg` | **The Bottle** (`THE BOTTLE`) | Tactical Manila Intelligence Dossier & Physical Die | 2048×1144 (2K) |
+| `01_TRAPPED_RADAR_2K.jpg` | **Trapped** (`TRAPPED`) | Tactical Geopolitical Radar & Threat Reticle | 2048×1144 (2K) |
+| `02_ONE_MACHINE_EUV_2K.jpg` | **One Machine** (`ONE MACHINE`) | ASML Cleanroom EUV Laser Vacuum Chamber | 2048×1144 (2K) |
+| `03_WHO_OWNS_IT_BOARD_2K.jpg` | **Who Owns It?** (`WHO OWNS IT?`) | Physical Intelligence String Board & Crime Wall | 2048×1144 (2K) |
+| `04_BREAK_POINT_VICE_2K.jpg` | **Break Point** (`BREAK POINT`) | Minimalist Macro Silicon Die Fractured in Vice | 2048×1144 (2K) |
+| `05_THE_NEW_OIL_HALFTONE_2K.jpg` | **The New Oil** (`THE NEW OIL`) | Constructivist Screenprint Risograph Poster | 2048×1144 (2K) |
+| `06_EMPTY_DATACENTRE_2K.jpg` | **Empty** (`EMPTY`) | Hyperscale Data Centre Void with Flashlight Beam | 2048×1144 (2K) |
+| `07_COLLAPSE_DOMINOES_2K.jpg` | **Collapse** (`COLLAPSE`) | Falling Monolithic Dominoes of Big Tech | 2048×1144 (2K) |
+| `08_OUT_OF_TIME_ZINE_2K.jpg` | **Out of Time** (`OUT OF TIME`) | Tactile Punk Zine & Media Chaos Collage | 2048×1144 (2K) |
+| `09_PRICELESS_PELICAN_2K.jpg` | **Priceless** (`PRICELESS`) | Smuggled Silicon in Tactical Pelican Case | 2048×1144 (2K) |
+| `10_WHO_WINS_STANDOFF_2K.jpg` | **Who Wins?** (`WHO WINS?`) | Dual Geopolitical Standoff Split Comparison | 2048×1144 (2K) |
 
 ---
 
@@ -63,9 +71,14 @@ thumbnails/
     │   └── originals/                              # Unprocessed raw outputs
     └── 03-ai-chip-bottleneck/
         ├── PACKAGING_SUITE.md                      # Full 6-step breakdown & 10 concepts
-        ├── 01_CHOKEPOINT_2K.jpg                    # Jensen Huang 2K thumbnail
-        ├── 02_THE_BOTTLE_2K.jpg                    # Classified dossier 2K thumbnail
-        ├── prompt_01_chokepoint.txt
-        ├── prompt_02_the_bottle.txt
-        └── prompt_03_one_island.txt
+        ├── 01_TRAPPED_RADAR_2K.jpg
+        ├── 02_ONE_MACHINE_EUV_2K.jpg
+        ├── 03_WHO_OWNS_IT_BOARD_2K.jpg
+        ├── 04_BREAK_POINT_VICE_2K.jpg
+        ├── 05_THE_NEW_OIL_HALFTONE_2K.jpg
+        ├── 06_EMPTY_DATACENTRE_2K.jpg
+        ├── 07_COLLAPSE_DOMINOES_2K.jpg
+        ├── 08_OUT_OF_TIME_ZINE_2K.jpg
+        ├── 09_PRICELESS_PELICAN_2K.jpg
+        └── 10_WHO_WINS_STANDOFF_2K.jpg
 ```

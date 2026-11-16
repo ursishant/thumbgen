@@ -43,10 +43,25 @@ Every thumbnail below was formulated through Thumbgen's 6-step pipeline, generat
 
 ### Case Study: AI Semiconductor Bottleneck ("The Coming Silicon Chokepoint")
 
-| Chokepoint (Monumental Behind Subject) | The Bottle (Tactical Dossier) |
-| :---: | :---: |
-| ![Chokepoint](thumbnails/case-studies/03-ai-chip-bottleneck/01_CHOKEPOINT_2K.jpg) | ![The Bottle](thumbnails/case-studies/03-ai-chip-bottleneck/02_THE_BOTTLE_2K.jpg) |
-| *Jensen Huang holding 300mm wafer with crimson rim light* | *Forensic manila dossier with surveillance photo and processor die* |
+| Trapped (Tactical Radar) | One Machine (EUV Cleanroom) | Who Owns It? (Crime Wall) |
+| :---: | :---: | :---: |
+| ![Trapped](thumbnails/case-studies/03-ai-chip-bottleneck/01_TRAPPED_RADAR_2K.jpg) | ![One Machine](thumbnails/case-studies/03-ai-chip-bottleneck/02_ONE_MACHINE_EUV_2K.jpg) | ![Who Owns It](thumbnails/case-studies/03-ai-chip-bottleneck/03_WHO_OWNS_IT_BOARD_2K.jpg) |
+| *Military tactical radar locking onto the Taiwan Strait* | *Inside the ASML extreme ultraviolet laser vacuum chamber* | *Forensic cork evidence wall with red yarn and polaroids* |
+
+| Break Point (Silicon Vice) | The New Oil (Constructivist) | Empty (Data Centre Void) |
+| :---: | :---: | :---: |
+| ![Break Point](thumbnails/case-studies/03-ai-chip-bottleneck/04_BREAK_POINT_VICE_2K.jpg) | ![The New Oil](thumbnails/case-studies/03-ai-chip-bottleneck/05_THE_NEW_OIL_HALFTONE_2K.jpg) | ![Empty](thumbnails/case-studies/03-ai-chip-bottleneck/06_EMPTY_DATACENTRE_2K.jpg) |
+| *Macro AI chip die fractured under cast-iron vice jaws* | *Risograph halftone print of robotic crane lifting a wafer* | *Gutted hyperscale server bay illuminated by flashlight* |
+
+| Collapse (Domino Effect) | Out of Time (Punk Zine) | Priceless (Pelican Smuggle) |
+| :---: | :---: | :---: |
+| ![Collapse](thumbnails/case-studies/03-ai-chip-bottleneck/07_COLLAPSE_DOMINOES_2K.jpg) | ![Out of Time](thumbnails/case-studies/03-ai-chip-bottleneck/08_OUT_OF_TIME_ZINE_2K.jpg) | ![Priceless](thumbnails/case-studies/03-ai-chip-bottleneck/09_PRICELESS_PELICAN_2K.jpg) |
+| *Tiny silicon wafer trigger knocking down Big Tech monoliths* | *Torn newspaper clippings, duct tape, and red marker zine* | *Opened tactical pelican case with iridescent wafers on tarmac* |
+
+| Who Wins? (Geopolitical Standoff) |
+| :---: |
+| ![Who Wins](thumbnails/case-studies/03-ai-chip-bottleneck/10_WHO_WINS_STANDOFF_2K.jpg) |
+| *Split-screen tension between Silicon Valley and Asian manufacturing patriarch* |
 
 ---
 
